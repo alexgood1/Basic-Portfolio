@@ -1,6 +1,6 @@
 # Basic-Portfolio
 
-https://alexgood1.github.io/Basic-Portfolio-Wireframe/
+https://alexgood1.github.io/Responsive-Portfolio/
 
 Basic HTML, CSS Wireframe
 
