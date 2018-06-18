@@ -4,6 +4,8 @@ https://alexgood1.github.io/Responsive-Portfolio/
 
 Basic HTML, CSS Wireframe
 
+Responsiveness - media queries to resize contents for different screen sizes
+
 ## Technologies Used
 
 HTML, CSS, Visual Studio Code
